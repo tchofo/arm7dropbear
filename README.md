@@ -1,2 +1,2 @@
 # arm7dropbear
-dropbear compiled for arm7, with busybox
+dropbear compiled for busybox on arm7
